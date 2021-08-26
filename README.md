@@ -130,7 +130,7 @@
 |069|[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1769.py)
 |070|[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1784.py)
 |071|[1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1827.py)
-|072|[1863. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1863.py)
+|072|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1863.py)
 
 
 
