@@ -13,5 +13,3 @@ def factorization(a: int):
 			prime +=1
 
 	return(result)
-
-print(factorization(1312))
