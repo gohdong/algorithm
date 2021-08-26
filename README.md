@@ -28,7 +28,7 @@
 |023|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42889.py)
 |024|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17677.py)
 |025|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67257.py)
-|026|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64056)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64056.py)
+|026|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64065.py)
 |027|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42577.py)
 |028|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42587.py)
 |029|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42627.py)
