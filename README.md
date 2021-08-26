@@ -57,4 +57,14 @@
 
 ## Leetcode
 
+|INDEX|PROBLEM|SOLUTION|
+|----:|:----|:----:|
+|001|[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1.py)
+|002|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/2.py)
+|003|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/3.py)
+|004|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/5.py)
+|005|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/6.py)
+|006|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/67.py)
+
+
 ## Baekjoon
