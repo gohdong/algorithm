@@ -41,8 +41,7 @@
 |036|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42578.py)
 |037|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42583.py)
 |038|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42628.py)
-|039|[카펫](https://programmers.co.kr/learn/
-courses/30/lessons/42842)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42842.py)
+|039|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42842.py)
 |040|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42883.py)
 |041|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43163.py)
 |042|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12981.py)
