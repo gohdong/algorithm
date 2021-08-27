@@ -148,3 +148,43 @@
 |009|[평균](https://www.acmicpc.net/problem/1546)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/1546.c)|
 |010|[손익분기점](https://www.acmicpc.net/problem/1712)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/1712.java)|
 |011|[2007년](https://www.acmicpc.net/problem/1924)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/1924.c)|
+|012|[그대로 출력하기](https://www.acmicpc.net/problem/11718)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/11718.java)|
+|013|[그대로 출력하기2](https://www.acmicpc.net/problem/11719)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/11719.java)|
+|014|[설탕배달](https://www.acmicpc.net/problem/2839)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/2839.c)|
+|015|[별 찍기-4](https://www.acmicpc.net/problem/2441)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/2441.c)|
+|016|[합](https://www.acmicpc.net/problem/8393)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/8393.c)|
+|017|[숫자의 합](https://www.acmicpc.net/problem/11720)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/11720.py)|
+|018|[열 개씩 끊어 출력하기](https://www.acmicpc.net/problem/11721)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/11721.py)|
+|019|[빠른 A+B](https://www.acmicpc.net/problem/15552)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/15552.py)|
+|020|[시험 성적](https://www.acmicpc.net/problem/9498)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/9498.py)|
+|021|[세 수](https://www.acmicpc.net/problem/10817)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/10817.py)|
+|022|[X보다 작은 수](https://www.acmicpc.net/problem/10871)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/10871.py)|
+|023|[평균은 넘겠지](https://www.acmicpc.net/problem/4344)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/4344.c)|
+|024|[Hello World](https://www.acmicpc.net/problem/2557)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2557.py)|
+|025|[A*B](https://www.acmicpc.net/problem/10998)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/10998.py)|
+|026|[사칙연산](https://www.acmicpc.net/problem/10869)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/10869.py)|
+|027|[나머지](https://www.acmicpc.net/problem/10430)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/10430.java)|
+|028|[N찍기](https://www.acmicpc.net/problem/2741)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/2741.java)|
+|029|[기찍N](https://www.acmicpc.net/problem/2742)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/2742.java)|
+|030|[구구단](https://www.acmicpc.net/problem/2739)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/2739.java)|
+|031|[별 찍기-1](https://www.acmicpc.net/problem/2438)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/2438.java)|
+|032|[별 찍기-2](https://www.acmicpc.net/problem/2439)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/2439.java)|
+|033|[별 찍기-3](https://www.acmicpc.net/problem/2440)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/2440.java)|
+|034|[개](https://www.acmicpc.net/problem/10172)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/10172.java)|
+|035|[A+B -2](https://www.acmicpc.net/problem/2558)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/2558.java)|
+|036|[등록](https://www.acmicpc.net/problem/7287)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/7287.py)|
+|037|[We love kriii](https://www.acmicpc.net/problem/10718)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/10718.py)|
+|038|[셀프 넘버](https://www.acmicpc.net/problem/4673)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/4673.py)|
+|039|[숫자의 개수](https://www.acmicpc.net/problem/2577)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2577.py)|
+|040|[OX퀴즈](https://www.acmicpc.net/problem/8958)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/8958.py)|
+|041|[음계](https://www.acmicpc.net/problem/2920)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2920.py)|
+|042|[평균 점수](https://www.acmicpc.net/problem/10039)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/10039.py)|
+|043|[아스키 코드](https://www.acmicpc.net/problem/11654)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/11654.py)|
+|044|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/10809.py)|
+|045|[문자열 반복](https://www.acmicpc.net/problem/2675)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2675.py)|
+|046|[상수](https://www.acmicpc.net/problem/2908)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2908.py)|
+|047|[다이얼](https://www.acmicpc.net/problem/5622)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/5622.py)|
+|048|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2941.py)|
+|049|[벌집](https://www.acmicpc.net/problem/2292)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2292.py)|
+|050|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/2609.py)|
+|051|[최소공배수](https://www.acmicpc.net/problem/1934)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1934.py)|
