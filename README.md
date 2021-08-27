@@ -3,52 +3,52 @@
 
 |INDEX|PROBLEM|SOLUTION|
 |----:|:----|:----:|
-|001|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77484.py)
-|002|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72410.py)
-|003|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60057.py)
-|004|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42888.py)
-|005|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67256.py)
-|006|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64061.py)
-|007|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76501.py)
-|008|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/70128.py)
-|009|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/62048.py)
-|010|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12977.py)
-|011|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12899.py)
-|012|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42576.py)
-|013|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42586.py)
-|014|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42626.py)
-|015|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42748.py)
-|016|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42840.py)
-|017|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42862.py)
-|018|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43165.py)
-|019|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1845.py)
-|020|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12973.py)
-|021|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77485.py)
-|022|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72411.py)
-|023|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42889.py)
-|024|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17677.py)
-|025|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67257.py)
-|026|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64065.py)
-|027|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42577.py)
-|028|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42587.py)
-|029|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42627.py)
-|030|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42746.py)
-|031|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42839.py)
-|032|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43162.py)
-|033|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12985.py)
-|034|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67258.py)
-|035|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64064.py)
-|036|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42578.py)
-|037|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42583.py)
-|038|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42628.py)
-|039|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42842.py)
-|040|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42883.py)
-|041|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43163.py)
-|042|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12981.py)
-|043|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42579.py)
-|044|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42584.py)
-|045|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43164.py)
-|046|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17687.py)
+|001|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77484.py)|
+|002|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72410.py)|
+|003|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60057.py)|
+|004|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42888.py)|
+|005|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67256.py)|
+|006|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64061.py)|
+|007|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76501.py)|
+|008|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/70128.py)|
+|009|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/62048.py)|
+|010|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12977.py)|
+|011|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12899.py)|
+|012|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42576.py)|
+|013|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42586.py)|
+|014|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42626.py)|
+|015|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42748.py)|
+|016|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42840.py)|
+|017|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42862.py)|
+|018|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43165.py)|
+|019|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1845.py)|
+|020|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12973.py)|
+|021|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77485.py)|
+|022|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72411.py)|
+|023|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42889.py)|
+|024|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17677.py)|
+|025|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67257.py)|
+|026|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64065.py)|
+|027|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42577.py)|
+|028|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42587.py)|
+|029|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42627.py)|
+|030|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42746.py)|
+|031|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42839.py)|
+|032|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43162.py)|
+|033|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12985.py)|
+|034|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67258.py)|
+|035|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64064.py)|
+|036|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42578.py)|
+|037|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42583.py)|
+|038|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42628.py)|
+|039|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42842.py)|
+|040|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42883.py)|
+|041|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43163.py)|
+|042|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12981.py)|
+|043|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42579.py)|
+|044|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42584.py)|
+|045|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43164.py)|
+|046|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17687.py)|
 
 
 
@@ -59,79 +59,92 @@
 
 |INDEX|PROBLEM|SOLUTION|
 |----:|:----|:----:|
-|001|[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1.py)
-|002|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/2.py)
-|003|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/3.py)
-|004|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/5.py)
-|005|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/6.py)
-|006|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/7.py)
-|007|[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/8.py)
-|008|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/9.py)
-|09|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/11.py)
-|010|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/12.py)
-|011|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/13.py)
-|012|[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/14.py)
-|013|[15. 3Sum](https://leetcode.com/problems/3sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/15.py)
-|014|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/17.py)
-|015|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/20.py)
-|016|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/21.py)
-|017|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/26.py)
-|018|[27. Remove Element](https://leetcode.com/problems/remove-element/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/27.py)
-|019|[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/28.py)
-|020|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/35.py)
-|021|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/39.py)
-|022|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/42.py)
-|023|[46. Permutations](https://leetcode.com/problems/permutations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/46.py)
-|024|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/49.py)
-|025|[77. Combinations](https://leetcode.com/problems/combinations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/77.py)
-|026|[78. Subsets](https://leetcode.com/problems/subsets/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/78.py)
-|027|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/88.py)
-|028|[100. Same Tree](https://leetcode.com/problems/same-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/100.py)
-|029|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/101.py)
-|030|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/104.py)
-|031|[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/108.py)
-|032|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/122.py)
-|033|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/125.py)
-|034|[179. Largest Number](https://leetcode.com/problems/largest-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/179.py)
-|035|[200. Number of Islandsr](https://leetcode.com/problems/number-of-islands/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/200.py)
-|036|[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/332.py)
-|037|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/344.py)
-|038|[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/392.py)
-|039|[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/455.py)
-|040|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/561.py)
-|041|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/605.py)
-|042|[704. Binary Search](https://leetcode.com/problems/binary-search/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/704.py)
-|043|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/763.py)
-|044|[819. Most Common Word](https://leetcode.com/problems/most-common-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/819.py)
-|045|[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/860.py)
-|046|[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/861.py)
-|047|[874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/874.py)
-|048|[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/921.py)
-|049|[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/937.py)
-|050|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/938.py)
-|051|[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/944.py)
-|052|[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1005.py)
-|053|[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1046.py)
-|054|[1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1217.py)
-|055|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1221.py)
-|056|[1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1282.py)
-|057|[1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1302.py)
-|058|[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1315.py)
-|059|[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1379.py)
-|060|[1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1403.py)
-|061|[1518. Water Bottles](https://leetcode.com/problems/water-bottles/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1518.py)
-|062|[1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1605.py)
-|063|[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1689.py)
-|064|[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1710.py)
-|065|[1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1716.py)
-|066|[1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1725.py)
-|067|[1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1736.py)
-|068|[1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1758.py)
-|069|[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1769.py)
-|070|[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1784.py)
-|071|[1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1827.py)
-|072|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1863.py)
+|001|[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1.py)|
+|002|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/2.py)|
+|003|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/3.py)|
+|004|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/5.py)|
+|005|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/6.py)|
+|006|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/7.py)|
+|007|[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/8.py)|
+|008|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/9.py)|
+|009|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/11.py)|
+|010|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/12.py)|
+|011|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/13.py)|
+|012|[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/14.py)|
+|013|[15. 3Sum](https://leetcode.com/problems/3sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/15.py)|
+|014|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/17.py)|
+|015|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/20.py)|
+|016|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/21.py)|
+|017|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/26.py)|
+|018|[27. Remove Element](https://leetcode.com/problems/remove-element/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/27.py)|
+|019|[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/28.py)|
+|020|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/35.py)|
+|021|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/39.py)|
+|022|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/42.py)|
+|023|[46. Permutations](https://leetcode.com/problems/permutations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/46.py)|
+|024|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/49.py)|
+|025|[77. Combinations](https://leetcode.com/problems/combinations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/77.py)|
+|026|[78. Subsets](https://leetcode.com/problems/subsets/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/78.py)|
+|027|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/88.py)|
+|028|[100. Same Tree](https://leetcode.com/problems/same-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/100.py)|
+|029|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/101.py)|
+|030|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/104.py)|
+|031|[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/108.py)|
+|032|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/122.py)|
+|033|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/125.py)|
+|034|[179. Largest Number](https://leetcode.com/problems/largest-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/179.py)|
+|035|[200. Number of Islandsr](https://leetcode.com/problems/number-of-islands/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/200.py)|
+|036|[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/332.py)|
+|037|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/344.py)|
+|038|[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/392.py)|
+|039|[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/455.py)|
+|040|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/561.py)|
+|041|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/605.py)|
+|042|[704. Binary Search](https://leetcode.com/problems/binary-search/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/704.py)|
+|043|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/763.py)|
+|044|[819. Most Common Word](https://leetcode.com/problems/most-common-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/819.py)|
+|045|[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/860.py)|
+|046|[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/861.py)|
+|047|[874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/874.py)|
+|048|[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/921.py)|
+|049|[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/937.py)|
+|050|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/938.py)|
+|051|[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/944.py)|
+|052|[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1005.py)|
+|053|[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1046.py)|
+|054|[1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1217.py)|
+|055|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1221.py)|
+|056|[1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1282.py)|
+|057|[1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1302.py)|
+|058|[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1315.py)|
+|059|[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1379.py)|
+|060|[1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1403.py)|
+|061|[1518. Water Bottles](https://leetcode.com/problems/water-bottles/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1518.py)|
+|062|[1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1605.py)|
+|063|[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1689.py)|
+|064|[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1710.py)|
+|065|[1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1716.py)|
+|066|[1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1725.py)|
+|067|[1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1736.py)|
+|068|[1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1758.py)|
+|069|[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1769.py)|
+|070|[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1784.py)|
+|071|[1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1827.py)|
+|072|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1863.py)|
 
 
 
 ## Baekjoon
+|INDEX|PROBLEM|SOLUTION|
+|----:|:----|:----:|
+|001|[A+B](https://www.acmicpc.net/problem/1000)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1000.py)|
+|002|[A-B](https://www.acmicpc.net/problem/1001)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1001.py)|
+|003|[A/B](https://www.acmicpc.net/problem/1008)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1008.py)|
+|004|[한수](https://www.acmicpc.net/problem/1065)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1065.py)|
+|005|[더하기 사이클](https://www.acmicpc.net/problem/1110)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/1110.c)|
+|006|[단어의 개수](https://www.acmicpc.net/problem/1152)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1152.py)|
+|007|[단어 공부](https://www.acmicpc.net/problem/1157)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1157.py)|
+|008|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|[python3](https://github.com/gohdong/algorithm/blob/master/baekjoon/1316.py)|
+|009|[평균](https://www.acmicpc.net/problem/1546)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/1546.c)|
+|010|[손익분기점](https://www.acmicpc.net/problem/1712)|[Java](https://github.com/gohdong/algorithm/blob/master/baekjoon/1712.java)|
+|011|[2007년](https://www.acmicpc.net/problem/1924)|[C](https://github.com/gohdong/algorithm/blob/master/baekjoon/1924.c)|
