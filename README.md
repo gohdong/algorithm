@@ -131,6 +131,12 @@
 |070|[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1784.py)|
 |071|[1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1827.py)|
 |072|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1863.py)|
+|073|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/58.py)|
+|074|[67. Add Binary](https://leetcode.com/problems/add-binary/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/67.py)|
+|075|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/168.py)|
+|076|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/171.py)|
+|077|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/205.py)|
+|078|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/242.py)|
 
 
 
