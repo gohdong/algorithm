@@ -49,6 +49,7 @@
 |044|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42584.py)|
 |045|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43164.py)|
 |046|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17687.py)|
+|047|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42747.py)|
 
 
 
