@@ -138,6 +138,8 @@
 |076|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/171.py)|
 |077|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/205.py)|
 |078|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/242.py)|
+|079|[274. H-Index](https://leetcode.com/problems/h-index/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/274.py)|
+|080|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/257.py)|
 
 
 
