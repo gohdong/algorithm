@@ -144,6 +144,13 @@
 |082|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/345.py)|
 |083|[346. Ransom Note](https://leetcode.com/problems/ransom-note/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/346.py)|
 |084|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/387.py)|
+|085|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/389.py)|
+|086|[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/409.py)|
+|087|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/412.py)|
+|088|[415. Add Strings](https://leetcode.com/problems/add-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/415.py)|
+|089|[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/434.py)|
+|090|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/459.py)|
+|091|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/482.py)|
 
 
 

@@ -8,7 +8,7 @@ class ListNode:
 
 class Solution:
 	def repeatedSubstringPattern(self, s: str) -> bool:
-		for i in range(2,len(s)):
+		for i in range(1,len(s)):
 			if len(s) % i == 0 and not s.replace(s[:i],""):
 				return True
 				
