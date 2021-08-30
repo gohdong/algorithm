@@ -142,6 +142,7 @@
 |080|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/257.py)|
 |081|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/290.py)|
 |082|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/345.py)|
+|083|[346. Ransom Note](https://leetcode.com/problems/ransom-note/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/346.py)|
 
 
 
