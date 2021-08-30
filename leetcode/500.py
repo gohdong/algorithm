@@ -14,17 +14,10 @@ class Solution:
 		second_row = set("asdfghjkl")
 		third_row = set("zxcvbnm")
 
-
-
-
-
 		for w in words:
 			a = set(Counter(w.lower()).keys())
 			if first_row == a.union(first_row) or second_row == a.union(second_row) or third_row == a.union(third_row):
 				answer.append(w)
-
-				
-
 
 		return answer
 

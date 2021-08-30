@@ -151,6 +151,8 @@
 |089|[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/434.py)|
 |090|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/459.py)|
 |091|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/482.py)|
+|092|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/500.py)|
+|093|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/520.py)|
 
 
 
