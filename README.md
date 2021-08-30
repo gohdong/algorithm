@@ -143,6 +143,7 @@
 |081|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/290.py)|
 |082|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/345.py)|
 |083|[346. Ransom Note](https://leetcode.com/problems/ransom-note/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/346.py)|
+|084|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/387.py)|
 
 
 
