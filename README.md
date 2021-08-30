@@ -140,6 +140,8 @@
 |078|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/242.py)|
 |079|[274. H-Index](https://leetcode.com/problems/h-index/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/274.py)|
 |080|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/257.py)|
+|081|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/290.py)|
+|082|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/345.py)|
 
 
 

@@ -11,8 +11,10 @@ class Solution:
     def wordPattern(self, pattern: str, s: str) -> bool:
         p_dict = {}
         words = s.split()
+        if len(words) != len(pattern):
+            return False
+
         for i,p in enumerate(pattern):
-            print(p_dict)
             if p not in p_dict and words[i] not in list(p_dict.values()):
                 p_dict[p] = words[i]
 

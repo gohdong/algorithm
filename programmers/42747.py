@@ -3,10 +3,8 @@ from typing import List
 
 
 def solution(citations: List):
-    answer = 0	
     citations.sort()
     for i,c in enumerate(citations):
-        print(len(citations)-i,c)
         if len(citations)-i <= c:
             return len(citations)-i
 
