@@ -9,9 +9,8 @@ class ListNode:
 
 class Solution:
 	def reverseWords(self, s: str) -> str:
-		answer = []
-		for word in s.split():
-			answer.append(word[::-1])
+		answer = [word[::-1] for word in s.split()]
+
 
 		return ' '.join(answer)
 
