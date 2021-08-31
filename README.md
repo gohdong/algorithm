@@ -153,6 +153,10 @@
 |091|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/482.py)|
 |092|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/500.py)|
 |093|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/520.py)|
+|094|[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/521.py)|
+|095|[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/541.py)|
+|095|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/551.py)|
+|096|[559. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/559.py)|
 
 
 
