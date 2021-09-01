@@ -157,6 +157,7 @@
 |095|[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/541.py)|
 |095|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/551.py)|
 |096|[559. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/559.py)|
+|097|[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/606.py)|
 
 
 

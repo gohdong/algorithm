@@ -16,9 +16,8 @@ class Solution:
 		for s in temp:
 			if same_dict[s] == same_dict[temp[0]]:
 				answer.append(s)
-		# list2_dict = {x:i for i,x in enumerate(list2)}
-
-
+			else:
+				break
 
 		return answer
 
