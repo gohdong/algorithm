@@ -10,7 +10,8 @@ class ListNode:
 class Solution:
 	def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
 		temp = sorted(nums1+nums2)
-		return temp[len(temp)//2]/1 if len(temp)%2 else (temp[len(temp)//2]+temp[len(temp)//2-1])/2
+		length = len(temp)
+		return temp[length//2]/1 if length%2 else (temp[length//2]+temp[length//2-1])/2
 
 
 
