@@ -60,107 +60,108 @@
 
 |INDEX|PROBLEM|SOLUTION|
 |----:|:----|:----:|
-|001|[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1.py)|
-|002|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/2.py)|
-|003|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/3.py)|
-|004|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/5.py)|
-|005|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/6.py)|
-|006|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/7.py)|
-|007|[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/8.py)|
-|008|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/9.py)|
-|009|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/11.py)|
-|010|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/12.py)|
-|011|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/13.py)|
-|012|[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/14.py)|
-|013|[15. 3Sum](https://leetcode.com/problems/3sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/15.py)|
-|014|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/17.py)|
-|015|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/20.py)|
-|016|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/21.py)|
-|017|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/26.py)|
-|018|[27. Remove Element](https://leetcode.com/problems/remove-element/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/27.py)|
-|019|[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/28.py)|
-|020|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/35.py)|
-|021|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/39.py)|
-|022|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/42.py)|
-|023|[46. Permutations](https://leetcode.com/problems/permutations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/46.py)|
-|024|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/49.py)|
-|025|[77. Combinations](https://leetcode.com/problems/combinations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/77.py)|
-|026|[78. Subsets](https://leetcode.com/problems/subsets/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/78.py)|
-|027|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/88.py)|
-|028|[100. Same Tree](https://leetcode.com/problems/same-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/100.py)|
-|029|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/101.py)|
-|030|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/104.py)|
-|031|[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/108.py)|
-|032|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/122.py)|
-|033|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/125.py)|
-|034|[179. Largest Number](https://leetcode.com/problems/largest-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/179.py)|
-|035|[200. Number of Islandsr](https://leetcode.com/problems/number-of-islands/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/200.py)|
-|036|[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/332.py)|
-|037|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/344.py)|
-|038|[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/392.py)|
-|039|[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/455.py)|
-|040|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/561.py)|
-|041|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/605.py)|
-|042|[704. Binary Search](https://leetcode.com/problems/binary-search/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/704.py)|
-|043|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/763.py)|
-|044|[819. Most Common Word](https://leetcode.com/problems/most-common-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/819.py)|
-|045|[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/860.py)|
-|046|[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/861.py)|
-|047|[874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/874.py)|
-|048|[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/921.py)|
-|049|[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/937.py)|
-|050|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/938.py)|
-|051|[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/944.py)|
-|052|[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1005.py)|
-|053|[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1046.py)|
-|054|[1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1217.py)|
-|055|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1221.py)|
-|056|[1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1282.py)|
-|057|[1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1302.py)|
-|058|[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1315.py)|
-|059|[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1379.py)|
-|060|[1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1403.py)|
-|061|[1518. Water Bottles](https://leetcode.com/problems/water-bottles/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1518.py)|
-|062|[1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1605.py)|
-|063|[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1689.py)|
-|064|[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1710.py)|
-|065|[1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1716.py)|
-|066|[1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1725.py)|
-|067|[1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1736.py)|
-|068|[1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1758.py)|
-|069|[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1769.py)|
-|070|[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1784.py)|
-|071|[1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1827.py)|
-|072|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1863.py)|
-|073|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/58.py)|
-|074|[67. Add Binary](https://leetcode.com/problems/add-binary/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/67.py)|
-|075|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/168.py)|
-|076|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/171.py)|
-|077|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/205.py)|
-|078|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/242.py)|
-|079|[274. H-Index](https://leetcode.com/problems/h-index/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/274.py)|
-|080|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/257.py)|
-|081|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/290.py)|
-|082|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/345.py)|
-|083|[346. Ransom Note](https://leetcode.com/problems/ransom-note/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/346.py)|
-|084|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/387.py)|
-|085|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/389.py)|
-|086|[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/409.py)|
-|087|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/412.py)|
-|088|[415. Add Strings](https://leetcode.com/problems/add-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/415.py)|
-|089|[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/434.py)|
-|090|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/459.py)|
-|091|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/482.py)|
-|092|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/500.py)|
-|093|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/520.py)|
-|094|[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/521.py)|
-|095|[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/541.py)|
-|095|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/551.py)|
-|096|[559. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/559.py)|
-|097|[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/606.py)|
-|098|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/4.py)|
-|099|[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/657.py)|
-|100|[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/680.py)|
+|0001|[1. Two Sum](https://leetcode.com/problems/two-sum/submissions/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1.py)|
+|0002|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/2.py)|
+|0003|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/3.py)|
+|0004|[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/5.py)|
+|0005|[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/6.py)|
+|0006|[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/7.py)|
+|0007|[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/8.py)|
+|0008|[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/9.py)|
+|0009|[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/11.py)|
+|0010|[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/12.py)|
+|0011|[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/13.py)|
+|0012|[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/14.py)|
+|0013|[15. 3Sum](https://leetcode.com/problems/3sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/15.py)|
+|0014|[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/17.py)|
+|0015|[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/20.py)|
+|0016|[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/21.py)|
+|0017|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/26.py)|
+|0018|[27. Remove Element](https://leetcode.com/problems/remove-element/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/27.py)|
+|0019|[28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/28.py)|
+|0020|[35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/35.py)|
+|0021|[39. Combination Sum](https://leetcode.com/problems/combination-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/39.py)|
+|0022|[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/42.py)|
+|0023|[46. Permutations](https://leetcode.com/problems/permutations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/46.py)|
+|0024|[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/49.py)|
+|0025|[77. Combinations](https://leetcode.com/problems/combinations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/77.py)|
+|0026|[78. Subsets](https://leetcode.com/problems/subsets/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/78.py)|
+|0027|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/88.py)|
+|0028|[100. Same Tree](https://leetcode.com/problems/same-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/100.py)|
+|0029|[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/101.py)|
+|0030|[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/104.py)|
+|0031|[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/108.py)|
+|0032|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/122.py)|
+|0033|[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/125.py)|
+|0034|[179. Largest Number](https://leetcode.com/problems/largest-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/179.py)|
+|0035|[200. Number of Islandsr](https://leetcode.com/problems/number-of-islands/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/200.py)|
+|0036|[332. Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/332.py)|
+|0037|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/344.py)|
+|0038|[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/392.py)|
+|0039|[455. Assign Cookies](https://leetcode.com/problems/assign-cookies/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/455.py)|
+|0040|[561. Array Partition I](https://leetcode.com/problems/array-partition-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/561.py)|
+|0041|[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/605.py)|
+|0042|[704. Binary Search](https://leetcode.com/problems/binary-search/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/704.py)|
+|0043|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/763.py)|
+|0044|[819. Most Common Word](https://leetcode.com/problems/most-common-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/819.py)|
+|0045|[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/860.py)|
+|0046|[861. Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/861.py)|
+|0047|[874. Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/874.py)|
+|0048|[921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/921.py)|
+|0049|[937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/937.py)|
+|0050|[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/938.py)|
+|0051|[944. Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/944.py)|
+|0052|[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1005.py)|
+|0053|[1046. Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1046.py)|
+|0054|[1217. Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1217.py)|
+|0055|[1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1221.py)|
+|0056|[1282. Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1282.py)|
+|0057|[1302. Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1302.py)|
+|0058|[1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1315.py)|
+|0059|[1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1379.py)|
+|0060|[1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1403.py)|
+|0061|[1518. Water Bottles](https://leetcode.com/problems/water-bottles/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1518.py)|
+|0062|[1605. Find Valid Matrix Given Row and Column Sums](https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1605.py)|
+|0063|[1689. Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1689.py)|
+|0064|[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1710.py)|
+|0065|[1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1716.py)|
+|0066|[1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1725.py)|
+|0067|[1736. Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1736.py)|
+|0068|[1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1758.py)|
+|0069|[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1769.py)|
+|0070|[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1784.py)|
+|0071|[1827. Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1827.py)|
+|0072|[1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1863.py)|
+|0073|[58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/58.py)|
+|0074|[67. Add Binary](https://leetcode.com/problems/add-binary/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/67.py)|
+|0075|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/168.py)|
+|0076|[171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/171.py)|
+|0077|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/205.py)|
+|0078|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/242.py)|
+|0079|[274. H-Index](https://leetcode.com/problems/h-index/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/274.py)|
+|0080|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/257.py)|
+|0081|[290. Word Pattern](https://leetcode.com/problems/word-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/290.py)|
+|0082|[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/345.py)|
+|0083|[346. Ransom Note](https://leetcode.com/problems/ransom-note/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/346.py)|
+|0084|[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/387.py)|
+|0085|[389. Find the Difference](https://leetcode.com/problems/find-the-difference/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/389.py)|
+|0086|[409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/409.py)|
+|0087|[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/412.py)|
+|0088|[415. Add Strings](https://leetcode.com/problems/add-strings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/415.py)|
+|0089|[434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/434.py)|
+|0090|[459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/459.py)|
+|0091|[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/482.py)|
+|0092|[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/500.py)|
+|0093|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/520.py)|
+|0094|[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/521.py)|
+|0095|[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/541.py)|
+|0095|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/551.py)|
+|0096|[559. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/559.py)|
+|0097|[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/606.py)|
+|0098|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/4.py)|
+|0099|[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/657.py)|
+|0100|[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/680.py)|
+|0101|[696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/696.py)|
 
 
 
