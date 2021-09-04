@@ -168,6 +168,7 @@
 |0105|[796. Rotate String](https://leetcode.com/problems/rotate-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/796.py)|
 |0106|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/804.py)|
 |0107|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/806.py)|
+|0108|[821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/821.py)|
 
 
 
