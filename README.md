@@ -166,6 +166,7 @@
 |0103|[748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/748.py)|
 |0104|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/771.py)|
 |0105|[796. Rotate String](https://leetcode.com/problems/rotate-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/796.py)|
+|0106|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/804.py)|
 
 
 
