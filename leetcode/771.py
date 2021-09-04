@@ -16,5 +16,7 @@ class Solution:
             answer += s_counter[j]
 
         return answer
+
+        
 solution = Solution()
 print(solution.problem())
