@@ -52,6 +52,7 @@
 |047|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42747.py)|
 |048|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17686.py)|
 |049|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12969.py)|
+|050|[추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17676.py)|
 
 
 
