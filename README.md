@@ -62,7 +62,8 @@
 |057|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/82612.py)|
 |058|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/68644.py)|
 |059|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12901.py)|
-|060|[가운데 글자 가져오가](https://programmers.co.kr/learn/courses/30/lessons/12903)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12903.py)|
+|060|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12903.py)|
+|061|[[1차]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17681.py)|
 
 
 
