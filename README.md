@@ -50,6 +50,8 @@
 |045|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43164.py)|
 |046|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17687.py)|
 |047|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42747.py)|
+|048|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17686.py)|
+|049|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12969.py)|
 
 
 
