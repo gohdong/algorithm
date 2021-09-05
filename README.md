@@ -57,6 +57,7 @@
 |052|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/84325.py)|
 |053|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/83201.py)|
 |054|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77884.py)|
+|055|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/68935.py)|
 
 
 
