@@ -53,6 +53,7 @@
 |048|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17686.py)|
 |049|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12969.py)|
 |050|[추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17676.py)|
+|051|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81031)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/81031.py)|
 
 
 
