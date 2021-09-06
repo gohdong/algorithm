@@ -70,6 +70,7 @@
 |065|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12910.py)|
 |066|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12912.py)|
 |067|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12915.py)|
+|068|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12916.py)|
 
 
 
