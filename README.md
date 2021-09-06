@@ -66,6 +66,7 @@
 |061|[[1차]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17681.py)|
 |062|[복서 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/85002.py)|
 |063|[[1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17682.py)|
+|064|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12906.py)|
 
 
 
