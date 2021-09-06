@@ -71,6 +71,7 @@
 |066|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12912.py)|
 |067|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12915.py)|
 |068|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12916.py)|
+|069|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12917.py)|
 
 
 

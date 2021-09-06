@@ -1,8 +1,9 @@
+from collections import Counter
+
+
 def solution(s):
-    answer = True
-    
-
-    return True
+    temp = Counter(s.lower())
+    return temp['p'] == temp['y']
 
 
-print(solution("pPoooyY))
+print(solution("pPoooyY"))
