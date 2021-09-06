@@ -67,6 +67,8 @@
 |062|[복서 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/85002.py)|
 |063|[[1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17682.py)|
 |064|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12906.py)|
+|065|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12910.py)|
+|066|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12912.py)|
 
 
 
