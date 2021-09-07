@@ -82,6 +82,7 @@
 |076|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12930.py)|
 |077|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12931.py)|
 |078|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12932.py)|
+|079|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12933.py)|
 
 
 
