@@ -84,6 +84,7 @@
 |078|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12932.py)|
 |079|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12933.py)|
 |080|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12934.py)|
+|081|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12935.py)|
 
 
 
