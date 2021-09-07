@@ -87,6 +87,7 @@
 |081|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12935.py)|
 |082|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12937.py)|
 |083|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12940.py)|
+|084|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12943.py)|
 
 
 
