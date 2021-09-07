@@ -90,6 +90,7 @@
 |084|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12943.py)|
 |085|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12944.py)|
 |086|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12947.py)|
+|087|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12948.py)|
 
 
 
