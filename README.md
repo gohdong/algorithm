@@ -93,10 +93,11 @@
 |088|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12948.py)|
 |089|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12950.py)|
 |090|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12954.py)|
-|091|[🤮괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60058.py)|
+|091|[🤮 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60058.py)|
 |092|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/81302.py)|
-|093|[🤮조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42860.py)|
-|094|[🤮게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1844.py)|
+|093|[🤮 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42860.py)|
+|094|[🤮 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1844.py)|
+|095|[🤮 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72412.py)|
 
 
 
