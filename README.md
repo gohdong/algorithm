@@ -100,6 +100,7 @@
 |095|[🤮 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72412.py)|
 |096|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
 |097|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
+|098|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42885.py)|
 
 
 
