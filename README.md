@@ -99,6 +99,7 @@
 |094|[🤮 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1844.py)|
 |095|[🤮 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72412.py)|
 |096|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
+|097|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
 
 
 
