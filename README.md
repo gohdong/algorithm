@@ -3,105 +3,106 @@
 
 |INDEX|PROBLEM|SOLUTION|
 |----:|:----|:----:|
-|001|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77484.py)|
-|002|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72410.py)|
-|003|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60057.py)|
-|004|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42888.py)|
-|005|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67256.py)|
-|006|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64061.py)|
-|007|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76501.py)|
-|008|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/70128.py)|
-|009|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/62048.py)|
-|010|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12977.py)|
-|011|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12899.py)|
-|012|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42576.py)|
-|013|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42586.py)|
-|014|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42626.py)|
-|015|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42748.py)|
-|016|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42840.py)|
-|017|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42862.py)|
-|018|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43165.py)|
-|019|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1845.py)|
-|020|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12973.py)|
-|021|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77485.py)|
-|022|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72411.py)|
-|023|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42889.py)|
-|024|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17677.py)|
-|025|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67257.py)|
-|026|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64065.py)|
-|027|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42577.py)|
-|028|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42587.py)|
-|029|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42627.py)|
-|030|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42746.py)|
-|031|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42839.py)|
-|032|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43162.py)|
-|033|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12985.py)|
-|034|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67258.py)|
-|035|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64064.py)|
-|036|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42578.py)|
-|037|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42583.py)|
-|038|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42628.py)|
-|039|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42842.py)|
-|040|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42883.py)|
-|041|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43163.py)|
-|042|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12981.py)|
-|043|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42579.py)|
-|044|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42584.py)|
-|045|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43164.py)|
-|046|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17687.py)|
-|047|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42747.py)|
-|048|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17686.py)|
-|049|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12969.py)|
-|050|[추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17676.py)|
-|051|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81031)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/81031.py)|
-|052|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/84325.py)|
-|053|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/83201.py)|
-|054|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77884.py)|
-|055|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/68935.py)|
-|056|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12982.py)|
-|057|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/82612.py)|
-|058|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/68644.py)|
-|059|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12901.py)|
-|060|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12903.py)|
-|061|[[1차]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17681.py)|
-|062|[복서 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/85002.py)|
-|063|[[1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17682.py)|
-|064|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12906.py)|
-|065|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12910.py)|
-|066|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12912.py)|
-|067|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12915.py)|
-|068|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12916.py)|
-|069|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12917.py)|
-|070|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12918.py)|
-|071|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12919.py)|
-|072|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12921.py)|
-|073|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12922.py)|
-|074|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12925.py)|
-|075|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12926.py)|
-|076|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12928.py)|
-|077|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12930.py)|
-|078|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12931.py)|
-|079|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12932.py)|
-|080|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12933.py)|
-|081|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12934.py)|
-|082|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12935.py)|
-|083|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12937.py)|
-|084|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12940.py)|
-|085|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12943.py)|
-|086|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12944.py)|
-|087|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12947.py)|
-|088|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12948.py)|
-|089|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12950.py)|
-|090|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12954.py)|
-|091|[🤮 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60058.py)|
-|092|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/81302.py)|
-|093|[🤮 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42860.py)|
-|094|[🤮 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1844.py)|
-|095|[🤮 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72412.py)|
-|096|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
-|097|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
-|098|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42885.py)|
-|099|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12953.py)|
+|0001|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77484.py)|
+|0002|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72410.py)|
+|0003|[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60057.py)|
+|0004|[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42888.py)|
+|0005|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67256.py)|
+|0006|[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64061.py)|
+|0007|[음양 더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76501.py)|
+|0008|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/70128.py)|
+|0009|[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/62048.py)|
+|0010|[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12977.py)|
+|0011|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12899.py)|
+|0012|[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42576.py)|
+|0013|[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42586.py)|
+|0014|[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42626.py)|
+|0015|[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42748.py)|
+|0016|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42840.py)|
+|0017|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42862.py)|
+|0018|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43165.py)|
+|0019|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1845.py)|
+|0020|[짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12973.py)|
+|0021|[행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77485.py)|
+|0022|[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72411.py)|
+|0023|[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42889.py)|
+|0024|[뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17677.py)|
+|0025|[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67257.py)|
+|0026|[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64065.py)|
+|0027|[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42577.py)|
+|0028|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42587.py)|
+|0029|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42627.py)|
+|0030|[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42746.py)|
+|0031|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42839.py)|
+|0032|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43162.py)|
+|0033|[예상 대진표](https://programmers.co.kr/learn/courses/30/lessons/12985)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12985.py)|
+|0034|[보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/67258.py)|
+|0035|[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/64064.py)|
+|0036|[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42578.py)|
+|0037|[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42583.py)|
+|0038|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42628.py)|
+|0039|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42842.py)|
+|0040|[큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42883.py)|
+|0041|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43163.py)|
+|0042|[영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12981.py)|
+|0043|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42579.py)|
+|0044|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42584.py)|
+|0045|[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/43164.py)|
+|0046|[n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17687.py)|
+|0047|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42747.py)|
+|0048|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17686.py)|
+|0049|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12969.py)|
+|0050|[추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17676.py)|
+|0051|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81031)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/81031.py)|
+|0052|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/84325.py)|
+|0053|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/83201.py)|
+|0054|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/77884.py)|
+|0055|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/68935.py)|
+|0056|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12982.py)|
+|0057|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/82612.py)|
+|0058|[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/68644.py)|
+|0059|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12901.py)|
+|0060|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12903.py)|
+|0061|[[1차]비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17681.py)|
+|0062|[복서 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/85002)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/85002.py)|
+|0063|[[1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17682.py)|
+|0064|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12906.py)|
+|0065|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12910.py)|
+|0066|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12912.py)|
+|0067|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12915.py)|
+|0068|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12916.py)|
+|0069|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12917.py)|
+|0070|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12918.py)|
+|0071|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12919.py)|
+|0072|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12921.py)|
+|0073|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12922.py)|
+|0074|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12925.py)|
+|0075|[시저 암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12926.py)|
+|0076|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12928.py)|
+|0077|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12930.py)|
+|0078|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12931.py)|
+|0079|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12932.py)|
+|0080|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12933.py)|
+|0081|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12934.py)|
+|0082|[제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12935.py)|
+|0083|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12937.py)|
+|0084|[최대공약수와 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12940)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12940.py)|
+|0085|[콜라츠 추측](https://programmers.co.kr/learn/courses/30/lessons/12943)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12943.py)|
+|0086|[평균 구하기](https://programmers.co.kr/learn/courses/30/lessons/12944)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12944.py)|
+|0087|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12947.py)|
+|0088|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12948.py)|
+|0089|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12950.py)|
+|0090|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12954.py)|
+|0091|[🤮 괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/60058.py)|
+|0092|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/81302.py)|
+|0093|[🤮 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42860.py)|
+|0094|[🤮 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/1844.py)|
+|0095|[🤮 순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/72412.py)|
+|0096|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
+|0097|[최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/76502)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/76502.py)|
+|0098|[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42885.py)|
+|0099|[N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12953.py)|
+|0100|[[1차]프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17679.py)|
 
 
 
