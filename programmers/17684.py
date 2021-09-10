@@ -1,6 +1,5 @@
 def solution(msg):
     answer = []
-    count = 0
     my_dictionary = {}
     d_index = 27
     max_len = 1
@@ -9,7 +8,6 @@ def solution(msg):
 
     while msg:
         for i in range(max_len,0,-1):
-            print(msg[:max_len])
             if msg[:i] in my_dictionary:
                 answer.append(my_dictionary[msg[:i]])
                 my_dictionary[msg[:i+1]] = d_index
