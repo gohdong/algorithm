@@ -106,6 +106,7 @@
 |0101|[[1차]캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17680.py)|
 |0102|[[3차]압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17684.py)|
 |0103|[[3차]방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17683.py)|
+|0104|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42890.py)|
 
 
 
