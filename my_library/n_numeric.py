@@ -23,4 +23,6 @@ def n_numeric(a, n_th):
     return temp[::-1]
 
 
-print(n_numeric(15, 16))
+print(n_numeric(437674, 3))
+
+
