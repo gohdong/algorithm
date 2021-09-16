@@ -241,6 +241,7 @@
 |0120|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/94.py)|
 |0121|[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/110.py)|
 |0122|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/111.py)|
+|0123|[112. Path Sum](https://leetcode.com/problems/path-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/112.py)|
 
 
 
