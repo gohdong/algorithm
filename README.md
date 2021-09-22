@@ -248,6 +248,7 @@
 |0129|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/495.py)|
 |0130|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/566.py)|
 |0131|[682. Baseball Game](https://leetcode.com/problems/baseball-game/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/682.py)|
+|0132|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/832.py)|
 
 
 
