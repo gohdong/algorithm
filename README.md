@@ -251,8 +251,8 @@
 |0133|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/832.py)|
 |0134|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/867.py)|
 |0135|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/10.py)|
-|0136|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/867.py)|
-|0137|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/867.py)|
+|0136|[66. Plus One](https://leetcode.com/problems/plus-one/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/66.py)|
+|0137|[383. Ransom Note](https://leetcode.com/problems/ransom-note/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/383.py)|
 
 
 
