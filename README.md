@@ -211,45 +211,48 @@
 |0093|[520. Detect Capital](https://leetcode.com/problems/detect-capital/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/520.py)|
 |0094|[521. Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/521.py)|
 |0095|[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/541.py)|
-|0095|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/551.py)|
-|0096|[559. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/559.py)|
-|0097|[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/606.py)|
-|0098|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/4.py)|
-|0099|[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/657.py)|
-|0100|[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/680.py)|
-|0101|[696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/696.py)|
-|0102|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/709.py)|
-|0103|[748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/748.py)|
-|0104|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/771.py)|
-|0105|[796. Rotate String](https://leetcode.com/problems/rotate-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/796.py)|
-|0106|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/804.py)|
-|0107|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/806.py)|
-|0108|[821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/821.py)|
-|0109|[824. Goat Latin](https://leetcode.com/problems/goat-latin/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/824.py)|
-|0110|[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/844.py)|
-|0111|[830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/830.py)|
-|0112|[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/997.py)|
-|0113|[1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1791.py)|
-|0114|[1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1971.py)|
-|0115|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/53.py)|
-|0116|[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/16.py)|
-|0117|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/69.py)|
-|0118|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/70.py)|
-|0119|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/83.py)|
-|0120|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/94.py)|
-|0121|[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/110.py)|
-|0122|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/111.py)|
-|0123|[112. Path Sum](https://leetcode.com/problems/path-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/112.py)|
-|0124|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/118.py)|
-|0125|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/119.py)|
-|0126|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/121.py)|
-|0127|[136. Single Number](https://leetcode.com/problems/single-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/136.py)|
-|0128|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/258.py)|
-|0129|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/495.py)|
-|0130|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/566.py)|
-|0131|[682. Baseball Game](https://leetcode.com/problems/baseball-game/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/682.py)|
-|0132|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/832.py)|
-|0133|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/867.py)|
+|0096|[551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/551.py)|
+|0097|[559. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/559.py)|
+|0098|[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/606.py)|
+|0099|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/4.py)|
+|0100|[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/657.py)|
+|0101|[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/680.py)|
+|0102|[696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/696.py)|
+|0103|[709. To Lower Case](https://leetcode.com/problems/to-lower-case/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/709.py)|
+|0104|[748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/748.py)|
+|0105|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/771.py)|
+|0106|[796. Rotate String](https://leetcode.com/problems/rotate-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/796.py)|
+|0107|[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/804.py)|
+|0108|[806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/806.py)|
+|0109|[821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/821.py)|
+|0110|[824. Goat Latin](https://leetcode.com/problems/goat-latin/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/824.py)|
+|0111|[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/844.py)|
+|0112|[830. Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/830.py)|
+|0113|[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/997.py)|
+|0114|[1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1791.py)|
+|0115|[1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1971.py)|
+|0116|[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/53.py)|
+|0117|[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/16.py)|
+|0118|[69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/69.py)|
+|0119|[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/70.py)|
+|0120|[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/83.py)|
+|0121|[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/94.py)|
+|0122|[110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/110.py)|
+|0123|[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/111.py)|
+|0124|[112. Path Sum](https://leetcode.com/problems/path-sum/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/112.py)|
+|0125|[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/118.py)|
+|0126|[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/119.py)|
+|0127|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/121.py)|
+|0128|[136. Single Number](https://leetcode.com/problems/single-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/136.py)|
+|0129|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/258.py)|
+|0130|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/495.py)|
+|0131|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/566.py)|
+|0132|[682. Baseball Game](https://leetcode.com/problems/baseball-game/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/682.py)|
+|0133|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/832.py)|
+|0134|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/867.py)|
+|0135|[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/10.py)|
+|0136|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/867.py)|
+|0137|[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/867.py)|
 
 
 
