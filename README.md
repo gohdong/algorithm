@@ -246,6 +246,7 @@
 |0127|[136. Single Number](https://leetcode.com/problems/single-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/136.py)|
 |0128|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/258.py)|
 |0129|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/495.py)|
+|0130|[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/566.py)|
 
 
 
