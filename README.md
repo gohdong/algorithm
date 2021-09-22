@@ -245,6 +245,7 @@
 |0126|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/121.py)|
 |0127|[136. Single Number](https://leetcode.com/problems/single-number/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/136.py)|
 |0128|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/258.py)|
+|0129|[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/495.py)|
 
 
 
