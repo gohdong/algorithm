@@ -257,6 +257,7 @@
 |0139|[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1103.py)|
 |0140|[1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1252.py)|
 |0141|[1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1260.py)|
+|0142|[1275. Find Winner on a Tic Tac Toe](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1275.py)|
 
 
 
