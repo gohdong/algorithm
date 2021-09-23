@@ -258,6 +258,7 @@
 |0140|[1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1252.py)|
 |0141|[1260. Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1260.py)|
 |0142|[1275. Find Winner on a Tic Tac Toe](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1275.py)|
+|0143|[1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1389.py)|
 
 
 
