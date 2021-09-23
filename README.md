@@ -260,6 +260,7 @@
 |0142|[1275. Find Winner on a Tic Tac Toe](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1275.py)|
 |0143|[1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1389.py)|
 |0144|[1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1441.py)|
+|0145|[1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1560.py)|
 
 
 
