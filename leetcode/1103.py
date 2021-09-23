@@ -14,7 +14,7 @@ class Solution:
         for c in range(candies):
             if temp + (c+1) < candies:
                 answer[c%num_people] += (c+1)
-                temp+=(c+1)
+                temp+= (c+1)
             else:
                 answer[c%num_people] += candies-temp
                 break

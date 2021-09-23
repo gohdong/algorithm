@@ -255,6 +255,7 @@
 |0137|[383. Ransom Note](https://leetcode.com/problems/ransom-note/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/383.py)|
 |0138|[999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/999.py)|
 |0139|[1103. Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1103.py)|
+|0140|[1252. Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1252.py)|
 
 
 
