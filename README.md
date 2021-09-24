@@ -265,6 +265,7 @@
 |0147|[1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1646.py)|
 |0148|[1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1688.py)|
 |0149|[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1700.py)|
+|0150|[1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1920.py)|
 
 
 
