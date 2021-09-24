@@ -263,6 +263,7 @@
 |0145|[1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1560.py)|
 |0146|[1603. Design Parking System](https://leetcode.com/problems/design-parking-system/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1603.py)|
 |0147|[1646. Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1646.py)|
+|0148|[1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1688.py)|
 
 
 
