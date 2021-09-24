@@ -267,6 +267,7 @@
 |0149|[1700. Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1700.py)|
 |0150|[1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1920.py)|
 |0151|[1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/1945.py)|
+|0152|[2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[python3](https://github.com/gohdong/algorithm/blob/master/leetcode/2011.py)|
 
 
 
