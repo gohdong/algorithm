@@ -108,6 +108,7 @@
 |0103|[[3차]방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/17683.py)|
 |0104|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/42890.py)|
 |0105|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/86051.py)|
+|0106|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/86491.py)|
 
 
 
