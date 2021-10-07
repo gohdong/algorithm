@@ -115,6 +115,7 @@
 |0110|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12941.py)|
 |0111|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12909.py)|
 |0112|[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/49993.py)|
+|0113|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12911.py)|
 
 
 
