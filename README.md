@@ -116,6 +116,7 @@
 |0111|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12909.py)|
 |0112|[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/49993.py)|
 |0113|[다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12911.py)|
+|0114|[숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)|[python3](https://github.com/gohdong/algorithm/blob/master/programmers/12924.py)|
 
 
 
